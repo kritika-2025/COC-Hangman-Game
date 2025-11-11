@@ -16,7 +16,7 @@ Description
 Important behavior notes
 - Input is read with `scanf(" %c", &guess);` which expects a single character. Extra characters on the same line will not be consumed for subsequent reads.
 - Letter matching is case-sensitive. The default secret word is uppercase (`DEBUGGERS`), so enter uppercase letters or change the `secret_word` in the source.
-- There is minimal input validation — this is intentionally simple and meant for learning.
+- There is minimal input validation - this is intentionally simple and meant for learning.
 
 Prerequisites
 - A C compiler (GCC / MinGW on Windows). The project was created with simple, standard C and requires no external libraries.
@@ -69,5 +69,6 @@ This project is provided as-is for learning and experimentation. You may copy an
 Credits
 
 Small demo written in plain C - suitable for beginners learning input/output and arrays in C.
+
 
 
