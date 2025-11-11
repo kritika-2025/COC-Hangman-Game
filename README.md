@@ -3,8 +3,8 @@
 This small project contains a simple terminal-based letter-guessing game (a basic Hangman) implemented in C.
 
 Files
-- `game.c` — the C source for the game. The secret word is hard-coded in the source.
-- `output/` — (optional) a folder included in the workspace; you may place compiled binaries or logs here.
+- `game.c` - the C source for the game. The secret word is hard-coded in the source.
+- `output/` - (optional) a folder included in the workspace; you may place compiled binaries or logs here.
 
 Description
 
@@ -69,3 +69,4 @@ This project is provided as-is for learning and experimentation. You may copy an
 Credits
 
 Small demo written in plain C — suitable for beginners learning input/output and arrays in C.
+
